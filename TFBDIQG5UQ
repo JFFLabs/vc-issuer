@@ -1,0 +1,27 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/vc/status-list/2021/v1",
+    "https://w3id.org/security/suites/ed25519-2020/v1"
+  ],
+  "id": "https://jfflabs.github.io/vc-issuer/TFBDIQG5UQ",
+  "type": [
+    "VerifiableCredential",
+    "StatusList2021Credential"
+  ],
+  "credentialSubject": {
+    "id": "https://jfflabs.github.io/vc-issuer/TFBDIQG5UQ#list",
+    "type": "StatusList2021",
+    "encodedList": "H4sIAAAAAAAAA-3BMQEAAADCoPVPbQsvoAAAAAAAAAAAAAAAAP4GcwM92tQwAAA",
+    "statusPurpose": "revocation"
+  },
+  "issuer": "did:key:z6MksSgUiAGqx6bDgUoc95ApDrFCTQht3Z9RjemMpApfY5uz",
+  "issuanceDate": "2024-06-15T16:22:30.835Z",
+  "proof": {
+    "type": "Ed25519Signature2020",
+    "created": "2024-06-15T16:22:30Z",
+    "verificationMethod": "did:key:z6MksSgUiAGqx6bDgUoc95ApDrFCTQht3Z9RjemMpApfY5uz#z6MksSgUiAGqx6bDgUoc95ApDrFCTQht3Z9RjemMpApfY5uz",
+    "proofPurpose": "assertionMethod",
+    "proofValue": "z3rcrBRoj5EhbiEsmzF4TAQxx57Fzd7VrZgadbvDvFYj6xbiEJZjGHFn8EdFayazfcb6UEcVVe5BepvD7JgpoafJp"
+  }
+}
