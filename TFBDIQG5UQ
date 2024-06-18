@@ -12,16 +12,16 @@
   "credentialSubject": {
     "id": "https://jfflabs.github.io/vc-issuer/TFBDIQG5UQ#list",
     "type": "StatusList2021",
-    "encodedList": "H4sIAAAAAAAAA-3BMQEAAADCoPVPbQsvoAAAAAAAAAAAAAAAAP4GcwM92tQwAAA",
+    "encodedList": "H4sIAAAAAAAAA-3BMQ0AAAACIGf_0LbwAhoAAAAAAAAAAAAAAIC_AfqBUGnUMAAA",
     "statusPurpose": "revocation"
   },
   "issuer": "did:key:z6MksSgUiAGqx6bDgUoc95ApDrFCTQht3Z9RjemMpApfY5uz",
-  "issuanceDate": "2024-06-15T16:22:30.835Z",
+  "issuanceDate": "2024-06-18T02:20:09.525Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2024-06-15T16:22:30Z",
+    "created": "2024-06-18T02:20:09Z",
     "verificationMethod": "did:key:z6MksSgUiAGqx6bDgUoc95ApDrFCTQht3Z9RjemMpApfY5uz#z6MksSgUiAGqx6bDgUoc95ApDrFCTQht3Z9RjemMpApfY5uz",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z3rcrBRoj5EhbiEsmzF4TAQxx57Fzd7VrZgadbvDvFYj6xbiEJZjGHFn8EdFayazfcb6UEcVVe5BepvD7JgpoafJp"
+    "proofValue": "z44kTa2zfoNvPjQHK1Hb3WS6PNmEukXiYp9HpZnVaLPDmz3ZP7AAyX6ktG8ym44pHPWmH5UaMcgDw7b8bB3fXvbDf"
   }
 }
